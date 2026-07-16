@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SytemUpdate</string>
+    <string name="notification_channel_name">Serviço ativo</string>
+</resources>
